@@ -1,0 +1,1 @@
+## TypeScript是javascript兼容javascript的超集，运行前需预编译生成javascript代码，加入了类型判断，编译时进行类型检查，它的文件拓展名为.ts
